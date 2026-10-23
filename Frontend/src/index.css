@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@property --border-angle{
+    inherits: false;
+    initial-value: 0deg;
+    syntax: "<angle>";
+}
+
+
+.input {
+  @apply w-full bg-[#10271F]/80 border border-emerald-900/50 rounded-lg py-2 pl-10 pr-4 text-[#E8E2D4] placeholder:text-emerald-100/40 focus:ring-2 focus:ring-[#D4AF65] focus:border-transparent;
+}
+
+.auth-input-icon {
+  @apply absolute left-3 top-1/2 -translate-y-1/2 text-emerald-100/50 size-5;
+}
+
+.auth-input-label {
+  @apply block text-sm font-medium text-[#E8E2D4] mb-2;
+}
+
+.auth-badge {
+  @apply inline-flex items-center px-3 py-1 text-xs font-medium rounded-full bg-emerald-500/10 text-[#D4AF65];
+}
+
+.auth-btn {
+  @apply w-full bg-[#D4AF65] text-[#080d0b] rounded-lg py-2.5 font-medium hover:bg-[#E5C784] focus:ring-2 focus:ring-[#D4AF65] transition-colors;
+}
+
+.auth-link {
+  @apply px-4 py-2 inline-block bg-emerald-500/10 rounded-lg text-[#D4AF65] hover:text-[#F5DDA5] text-sm transition-colors;
+}
