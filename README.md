@@ -7,14 +7,14 @@
 
 Highlights:
 
-🔐 Custom JWT Authentication (no 3rd-party auth) 
-⚡ Real-time Messaging via Socket.io 
-🟢 Online/Offline Presence Indicators
-🔔 Notification & Typing Sounds (with toggle)
-🗂️ Image Uploads (Cloudinary)
-🧰 REST API with Node.js & Express
-🧱 MongoDB for Data Persistence
-🚦 API Rate-Limiting powered by Arcjet
-🎨 Beautiful UI with React, Tailwind CSS & DaisyUI
-🧠 Zustand for State Management
-🚀 Easy Deployment (vercel -> Frontend , render -> Backend)
+- 🔐 Custom JWT Authentication (No Third-Party Auth)
+- ⚡ Real-Time Messaging with Socket.io
+- 🟢 Online/Offline Presence Indicators
+- 🔔 Notification and Typing Sounds with Toggle Controls
+- 🗂️ Image Uploads via Cloudinary
+- 🧰 REST API Built with Node.js and Express
+- 🧱 MongoDB for Data Persistence
+- 🚦 API Rate Limiting Powered by Arcjet
+- 🎨 Modern UI with React, Tailwind CSS, and DaisyUI
+- 🧠 State Management with Zustand
+- 🚀 Easy Deployment: Vercel for the Frontend and Render for the Backend
