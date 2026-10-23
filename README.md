@@ -1,5 +1,5 @@
 ## Talkify 
-# Full stack chat application
+# ✨ Full-Stack Chat App with Socket.io ✨
 
 <img width="1422" height="892" alt="image" src="https://github.com/user-attachments/assets/41e5d71d-b437-4c6d-a4d7-0799470a67a4" />
 
